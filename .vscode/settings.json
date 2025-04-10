@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./models/hybrid_model/loss_function_",
+        "./models/hybrid_model"
+    ]
+}

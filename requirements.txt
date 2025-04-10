@@ -1,0 +1,12 @@
+torch
+librosa
+numpy
+matplotlib
+scipy
+pydub
+transformers
+datasets
+tqdm
+sentencepiece
+librosa
+soundfile

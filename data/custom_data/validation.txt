@@ -1,0 +1,426 @@
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4282.wav|لَقَدِ اعْتَرَفَ يَا لَلجُرْأَةِ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV42000.wav|إِنَّنِي كافِرَةٌ بِهِمْ جَمِيعاً|1
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41706.wav|مَاذَا فَعَلْنَا بِأَنْفُسِنَا يَا هِشَامُ؟|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4988.wav|بَلْ هِيَ حَقِيقَةٌ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV42019.wav|غَدًا أَحْكِي لَكُمْ إِنْ شَاءَ اللَّهُ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4297.wav|وَأَرَدْتُ أَنْ يَكُونَ لِي فَضْلٌ عَلَى أَهْلِ مَكَّةَ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41738.wav|مِنْ رَحْمَةِ اللَّهِ|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4651.wav|ou le malik.|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV470.wav|عَنْ أَيِّ شَيْءٍ تَتَحَدَّثِينَ؟|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4290.wav|Shh.|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV42012.wav|jb|3
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41701.wav|عُدْ قَادِراً عَلَى التَّفْكِيرِ يَا هِشَامُ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4507.wav|mmm|1
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41376.wav|لَيْسَ بَعْدُ|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4914.wav|فَعَلاً وَبِشِدَّةٍ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4450.wav|Hummus?|20
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41616.wav|مِثْلَ الَّتِي تَرْكَبُهَا أَنْتَ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41782.wav|Uh, murder.|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4196.wav|لَمْ تُخْبِرْنَا يَا أَخِي|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4109.wav|الَّذِينَ شَارَكُوا فِي بَدْرٍ وَأُحُدْ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41307.wav|وَأَداءُ الأَمَانَةِ|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41181.wav|fff|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4298.wav|لَعَلَّهُمْ يَرْحَمُونَ أَطْفَالي|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41225.wav|لِلْأَسَفِ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41078.wav|حَسَناً يَا جَدِّي،|3
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4342.wav|وَيَتَوَدَّدَ إِلَى أَعْدَائِنَا يَا رَجُلُ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41945.wav|الْحَمَامَةُ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41459.wav|الْحَيَاةُ امْتِحَانٌ|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4111.wav|صَادِقًا فِي كُلِّ مَا قَالَ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41820.wav|وَإِذَا أَرَدْتَ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41621.wav|أَحْكَمَ الْقَيْدَةَ يَا حَارِثُ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41378.wav|تَأْتِي مِنَ السَّمَاءِ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41818.wav|ydj|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4705.wav|مُجَرَّدَ الْمُخَالَفَةِ|17
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4978.wav|اسْمَعُونِي يَا أَهْلَ الْحَبَشَةِ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4579.wav|La Iordini.|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41897.wav|اصْبِرُوا يَا أَوْلاَدُ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41909.wav|No.|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4306.wav|لَنْ نَعُودَ إِلَّا وَمَعَنَا الرِّسَالَةُ وَرَ|11
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4367.wav|أَيُّ تَفْكِيرٍ؟|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4433.wav|قَالَ لَهَا سَيِّدُنَا عَلَيَّ أَخْرِجِي الْكِتَابَ وَإِلَّا لَأَجْرُدَنَّكِ وَلَأَضْرَبَنَّ عُنُقَكِ|1
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4321.wav|مَا هُوَ؟|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41178.wav|fchg|1
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4581.wav|وَعَبْدٍ يَرْعَىٰ|11
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41735.wav|وَمَا المُهِمُّ فِي رَأْيِكَ؟|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV42116.wav|rget|2
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4464.wav|وَنَزَلَ قَوْلُ اللَّهِ تَعَالَى فِي أَوَّلِ سُورَةِ الْمُمْتَحَنَةِ يُ|1
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4471.wav|أَوْ مَعْلُومَاتٍ تُؤْذِي الْمُؤْمِنِينَ،|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4985.wav|يَخْلُو الْآنَ لِصَلاَ|11
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41690.wav|O sayıydı.|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41493.wav|لا تَشَتُّتُ أَفْكَارِي|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41574.wav|قُلْ لِي إِلَى أَيْنَ كُنْتَ ذَاهِباً؟|3
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4831.wav|عَلَى تَنْصِيبِ أَصْحَمَةَ نَجَاشِيًّا عَلَيْهِمْ وَحَمَلُوهُ فَوْقَ الأَعْنَاقِ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4307.wav|وَرَأْسُ تِلْكَ الْمَرْأَةِ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4420.wav|الْمَرْأَةُ الَّتِي تُرَكَّبُ فِي الْهَوْدَجِ عَلَى|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41969.wav|Oh...|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4543.wav|Abby.|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4879.wav|כותיבת בלוגתי לטיני.|3
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4668.wav|أَلَمْ تُصَلِّ إِلَى مَعْرِفَةِ الْجَاسُوسِ بَعْدُ؟|2
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41204.wav|هَلْ لِي أَنْ أَسْأَلَ سُؤَالَ؟|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4135.wav|أَرْجُو ذَلِكَ|11
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41650.wav|لا أَرْجُوكَ|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4618.wav|تَكَلَّمْ|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4427.wav|وَعَادَ الْمِقْدَادُ وَمُرْتَدٌّ لِيُ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4892.wav|فِي هَذِهِ السِّنِّ؟|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41432.wav|أَرْجُوكَ أَنْ تُعِينَنَا|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4128.wav|وَلَمْ يَعْرِفْ أَحَدٌ بِقِصَّةِ الرِّسَالَةِ الَّتِي أَعْطَاهَا حَاطِبٌ إِلَى سَارَةَ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV467.wav|سَأُحْضِرُ لَكِ بَعْضَ القَمْحِ لِتَسْ|1
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4613.wav|mmmmm|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4184.wav|أُرِيدُكِ أَنْ تُوصِلِي رِسَالَةً إِلَى أَهْلِ مَكَّةَ|3
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41725.wav|اللَّهُمَّ فَهِمْنِي إِيَّاهَا|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41268.wav|gv|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4584.wav|لا شَيْءَ يَا سَيِّدِي|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV429.wav|مَا جِئْتُ بِقَصْدِ الْهِجْرَةِ؟|3
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41302.wav|دِينُ الْإِسْلَامِ|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4422.wav|اجْلِسَا فِي هُدُوءٍ وَسَأَرْوِي لَكُمْ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4259.wav|حَاطِبٌ لَمْ يَقُلْ فِي رِسَالَتِهِ إِلاَّ تَحْذِيراً لاَ يَحْمِلُ قِيمَةَ|1
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV42063.wav|Que nous haltestations !|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41687.wav|Oh|33
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV42025.wav|لِمَاذَا تَبْكِي الآنَ؟|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41828.wav|Oh!|33
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4231.wav|وَيَصِفُ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4976.wav|أَوْ حَتَّى يَلْعَنَنا|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV42098.wav|نَعَمْ|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41797.wav|لَيْسَ أَخِي مَنْ يَنْضَمُّ إِلَى دِينِ مُحَمَّدٍ وَيُعِيِّرُنَا بَيْنَ الْقَبَائِلِ|11
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41061.wav|وَهَذَا صَدِيقِي عَبْدُ اللَّهِ بْنُ أَبِي رَبِيعَةَ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41128.wav|Now.|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV451.wav|mmmm|1
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4859.wav|أَكِيدُ|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4426.wav|رَضِيَ اللَّهُ عَنْهُمْ أَنْ يَتَّبِعُوا سَارَةَ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41536.wav|Ugh!|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4529.wav|أُكَرِّرُ اعْتِذَارِي يَا سُمُوَّ الأَمِيرَةِ عَلَى هَذَا الإِزْعَاجِ لاَ|3
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41713.wav|ثُمَّ رَجَعْنَا إِلَى الْكُفْرِ بِإِرَادَتِنَا|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4482.wav|وَيَسْتَحِيلُ أَنْ يَكُونَ لَهُ أَيْ عَلَاقَةٍ بِمَا نَبْحَثُ عَنْهُ عَنْ|1
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4647.wav|جَرَتْ أَحْدَاثُ قِصَّتِنَا فِي أَرْضِ الْحَبَشَةِ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41360.wav|أَنْتُمْ تَعْرِفُونَ قُوَّةَ جَيْشِي|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41208.wav|أَمْرِي لِلَّهِ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4324.wav|لَعَلَّها صادِقَةٌ|18
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4772.wav|فَأَخْشَى عِقَابَ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41054.wav|مَا هَذَا الَّذِي تَحْمِلُهُ؟|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4409.wav|حَقّاً إِنَّهُ رائِعٌ|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41876.wav|تَعَالَ لأَحْمِلَكَ عَلَى حَصَانِي|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41629.wav|أَيْنَ زَرْزُورْ؟|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4752.wav|قَدْ جَعَلَ أَرْضَ الْحَبَشَةِ فِي عَهْدِهِ أَرْضَ خَيْرٍ وَنَمَاءِ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41245.wav|إِذَا أَرَدْتَ التَّعَلُّمَ وَالنَّجَاحَ فِي مَهَمَّتِكَ|3
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4485.wav|mmmm|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4254.wav|وَشَيءٌ آخِرٌ مُهِمُّ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4530.wav|حَسَنَةٌ قَلِيلَةٌ تَمْنَعُ الْبَلاءَ|2
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4650.wav|كَانَ النَّجَاشِيُّ لَقَبًا يَعْنِي الْحَاكِمَ أَوْ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41322.wav|وَلَمْ يَجْعَلْنِي جِبَاراً شَقِيّاً|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4764.wav|يَا مَلِكَ الأَحْبَاشِ|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4251.wav|On. On?|2
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4990.wav|أُدْخُلْ وَقَابِلْهُ؟|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4408.wav|لَقَدْ تَأَخَّرْنَا|1
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4211.wav|وَيُجَرِّحُهُ|13
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4240.wav|أَقْسَمَ لَكُمْ إِنَّنِي لا أَعْرِفُ شَخْصاً اسْمُهُ حَاطِبْ؟|1
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4100.wav|Nam.|2
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41433.wav|مَاذَا بِكَ يَا صَفِيَّ الدَّيِّ؟|2
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4781.wav|Mah.|3
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41617.wav|أَنَّكَ تَسْمَحُ لِي بِالرُّكُوبِ بِهَا بَعْضُ الْوَقْتِ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4889.wav|مَا هُوَ قَادِمٌ؟|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4410.wav|وَخَاصَّةً الحَمٌامُ المَحشُوُّ أَيُّ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4906.wav|أَلا تَعْرِفُونَ فِي بِلادِيكُمْ هَذِهِ قِيمَةَ الْعِلْمِ؟|1
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41420.wav|رِفْقاً بِهَا يَا أَخِي|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41764.wav|يَبْدُو أَنَّهُمَا قَدِ اشْتَاقَ إِلَى ضَرْبِ الصِّيَاطِ|11
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41772.wav|Ata-lhe-fum!|36
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41770.wav|Oh.|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41146.wav|الآنَ|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4838.wav|ثُمَّ نَلْعَبُ كَمَا شَاءَ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4561.wav|لَمْ أُفَكِّرْ يَوْماً|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41954.wav|Mm-mm.|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41855.wav|لَمْ يَثِقْ بِنَا|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4275.wav|خُذُوا حِذْرَكُمْ|17
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4893.wav|آهِ آهِ صَحِيحٌ آهِ أَحْتَاجُ التَّعَلُّمَ فِعْلاً أَفْعَلُ|2
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4670.wav|وَلَكِنْ هَلْ تَأَكَّدْتَ مِنَ اتِّهَامِكَ لَهْ؟|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41680.wav|I was going to Yathrib.|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4120.wav|سَأَلَهَا النَّبِيُّ|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41651.wav|أَرْجُوكَ سَسَسَوْفَ إِنْ شَاءَ اللَّهُ إِنْ شَاءَ اللَّهُ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4818.wav|وَطَنُكَ في خَطَرٍ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4538.wav|kkkk|1
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV456.wav|And now said|1
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4247.wav|إِذَا كُنْتُمْ تُرِيدُونَ الْمَالَ وَالْمَتَاعَ فَآخِذُوهُ وَلَا تُؤْذُونِي|1
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41620.wav|تَفَضَّلْ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41323.wav|وَالسَّلامُ عَلَيَّ يَوْمَ وُلِدْتُ وَيَوْمَ أَمُوتُ وَيَوْمَ أُبْعَثُ حَيًّا|3
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41765.wav|مَرَّةً أُخْرَى|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV42105.wav|لَا لَا لَا هَذِهِ صَغِيرَةٌ احْمِلْ أَكْبَرَ مِنْهَا وَإِلَّا قَيَّدْتُكَ بِجَانِبِهِ وَأَلْهَبْتُكَ بِالصَّوْتِ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4564.wav|فَعِنْدَمَا يَفِيضُ النِّيلُ سَتَتَأثَّرُ تِلْكَ الْمَبَانِي وَقَدْ تَغْرَقُ بِأَكْمَلِهَا|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4710.wav|كُلُّ مَا يَقُولُهُ أَصْحَمَةُ صَحِيحٌ وَحَكِيمُ وَرَائِعُ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41137.wav|Nam.|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4535.wav|حَسَنَةٌ قَلِيلَةٌ|22
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41933.wav|اللَّهُمَّ عَلِّمْنَا مِنَ الْقُرْآنِ مَا يُرْضِيكَ عَنْهُ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4756.wav|إِنَّكَ شَدِيدُ التَّوَاضُعِ يَا سَيِّدِي الأَمِيرُ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4350.wav|لَمْ نَأْتِي إِلاَّ لِنَأْخُذَ الْكِتَابَ|3
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41131.wav|وَيَأْمُرُ بِقَطْعِ رُؤُوسِهِمْ فِي الْحَالِ لَا تَنْسَى أَنَّهُمْ أَرْحَامُنَا وَإِنْ خَالَفُونَا وَلَا تَنْسَى أَنْتَ أَنَّهُمْ مَنْ بَدَأُوا بِالْعَدَاوَةِ وَانْكُرُوا آلِهَتَنَا مَاذَا تَنْوِي أَنْ تَفْعَلَ؟|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41925.wav|إِليَّ مَرْجِعُكُمْ فَأُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41612.wav|لِأَنَّكَ شَابٌّ وَقَوِيٌّ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4483.wav|عُدْتَ إِلَى تَرْدِيدِ الكَلاَمِ بِلاَ رَابِطِ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41985.wav|أَنَا مَاذَا؟|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41541.wav|إِنَّ المُسَافِرَةَ مَعَهُ فَوْقَ النَّاقَةِ هُوَ|3
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4486.wav|الْخَطِيرَةُ.|8
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41083.wav|أَيْنَ تَوَقَّفْنَا فِيهِ؟|11
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV42120.wav|أَحَدٌ أَحَدٌ|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41175.wav|जी ना म्ाबु नहीं|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4544.wav|أَبِي|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41467.wav|وَلَو اِشتَدَّ عَلَيها حَرُّ مَكَّةَ لَإِسْتَظَلَّتْ|1
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41510.wav|أَتَعَجَّبُ كُلَّمَا سَمِعْتُهَا|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV469.wav|iiiii|1
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41352.wav|بِأَنَّهُ عَبْدٌ؟|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41547.wav|مَا هَذَا؟|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4233.wav|تَأَكَّدَ يَا سَيِّدَ الْقَاضِي أَنَّ شِعَارَنَا هُوَ الْعَمَلُ فِي سَرِيَّةٍ كَامِلَةٍ|2
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41454.wav|امْتِحَانٌ مِنَ اللَّهِ تَعَالَى لِخَلْقِهِ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4438.wav|قَالَ النَّبِيُّ لِحَاطِبْ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4458.wav|إِنْ كُنْتُمْ خَرَجْتُمْ جِهَاداً فِي سَبِيلِي وَابْتِغَاءَ مَرْضَاتِي|1
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41668.wav|سَأُخْرِجُ فِي فَجْرِ الْغَدِ وَ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4281.wav|وَأَنَا الَّذِي كَتَبْتُهُ بِيَدِي|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4585.wav|mm|1
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4715.wav|يَقُولُ إِنَّهُ يَشْعُرُ بِتَأْنِيبِ الضَّمِيرِ|1
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41920.wav|إِنَّمَا هُوَ التَّعَاوُنُ بَيْنِي وَبَيْنَ صَاحِبِ الشُّرْطَةِ وَسُمُوُّ الأَمِيرُ|1
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41666.wav|طَّابِ عَلَى  أَنْ نُهَاجِرَ نَحْنُ الثَّلاثَةَ مَعَاً إِنْ شَاءَ اللَّهُ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41272.wav|أُثْبِتْ يَا مِقْدَادُ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4841.wav|الْحَمْدُ لِلَّهِ|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41359.wav|مَوْلاَيَ النَّجَاشِيُّ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4686.wav|مَا أَجْمَلَ الطَّبِيعَةَ فِي هَذَا الْوَقْتِ|2
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4693.wav|دَعْ عَمَلِيَّةَ الْقَتْلِ لَنَا|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4596.wav|إِنَّهُ يَطْلُبُ صَدَقَهْ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV499.wav|وَاللهِ مَا أَهَنْتُهُ فَقَطْ أَمَرْتُهُ أَنْ يُقَلِّلَ البَهَارَ هَا|1
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV42037.wav|نَعَمْ يَا صَفَا|1
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41293.wav|فَيَجِبُ أَنْ يَقْتَصَّ مِنَّا؟|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41827.wav|لا أَقْدِرُ|33
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4299.wav|mmmm|3
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV42107.wav|أَحَدٌ أَحَدٌ|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4816.wav|يَرْعَى الأَغْنَامَ لِصَاحِبِهَا|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV42014.wav|What? Num.|2
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4239.wav|لا أَفهَمُ عَن أَيِّ شَيءٍ تَتَحَدَّثانِ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41499.wav|أَلَيْسَ كَذَلِكَ؟|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4124.wav|قَالَ لَهَا|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41990.wav|يَا عَيَّاشُ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41114.wav|عَجِيبٌ أَمْرُكُمْ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4495.wav|لأَضْمَنَ جُودَتَهُ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41476.wav|أَحَسِبَ النَّاسُ أَنْ يُتْرَكُوا أَنْ يَقُولُوا آمَنَّا وَهُمْ لَا يُفْتَنُونَ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41929.wav|مِنْ وَجْهَةِ نَظَرِي|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41596.wav|Hiya!|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41357.wav|لا أَرُدُّهُمْ لَكُمْ أَبَداً|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4354.wav|وَعَلَيْكُمُ السَّلامُ وَيَا حَاطِبُ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV465.wav|انْتَظِرِي يَا حَبِيبَتِي|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4630.wav|أَسْتَغْفِرُ اللَّهَ الْعَظِيمَ|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41490.wav|وَإِذا فَشِلْتُ في المُهِمَّةِ أُ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41744.wav|Ah.|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV42052.wav|وَحْشِيٌّ اسْ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41386.wav|أَسْرَعَ وَأَحْضَرَ الصَّيْدَ إِلَيَّ|8
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41912.wav|لَنْ أُغْضِبَ أَبِي وَأُمِّيَ بَعْدَ اليَوْمِ أَبَداً يَا جَدِّي وَ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4931.wav|الحَبَشَةُ|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4743.wav|أُرِيدَ طَعَامَاً|3
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41364.wav|انْتَظِرْ يَا عُمَرُ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41642.wav|لَقَدْ كُنْتُ أُرَاقِبُ الْمُعَلِّمَ جَوْجاً طَوَالَ الْوَقْتِ|2
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41057.wav|يَا لَهَا مِنْ هَدِيَّةٍ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41872.wav|fgch|1
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4694.wav|كُلُّ مَا أَطْلُبُهُ دَعْمَكَ يَا سَيِّدَ أَمْبُونِيزِي بَيْنَ قَبَائِلِ الحَبَ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4590.wav|mmm|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41789.wav|23)िन...|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41903.wav|بِالْهَنَاءِ وَالشِّفَاءِ، سَ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41455.wav|اللَّهُ يَمْتَحِنُنَا بِالْفَقْرِ وَالْغِنَى|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41157.wav|Bye, Stefan.|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4185.wav|أَحْرُسِي عَلَى إِخْفَاءِ الرِّسَالَةِ وَعَدَمِ التَّحَدُّثِ عَنْهَا مَعَ أَيِّ مَخْلُوقٍ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4634.wav|كُلُّ التَّأَكُّدِ فَهُوَ يَعْرِفُ اللُّغَةَ الأَجْنَبِيَّةَ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4212.wav|وَيُكْسَرُ أَسْنَانُهُ|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41605.wav|gdgh|2
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4923.wav|Yeah, look.|29
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41124.wav|لَاحَظْتُ ذَلِكَ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4134.wav|وَسَيَكُونُ الأَمْرُ أَكْثَرَ خُطُورَةً إِذَا شَاعَ أَكْثَرُ بَيْنَ النَّاسِ|11
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV496.wav|هَلْ نَسِيتُي كَلَامٌ جَدِّنَا الْقَاضِي؟|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV42018.wav|وَأَحْدَاثُهَا كَثِيرَةٌ|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV42056.wav|Ha ha ha ha ha ha ha ha.|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41689.wav|Yucky!|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41380.wav|رِكْزٌ فِي الْوَرْكَةِ الَّتِي أَمَامَكْ|3
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4188.wav|افْعَلِي مَا تَرَيْنَهُ|3
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41553.wav|وَيَسْقُطُ رَاكِبُهُ أَحْيَاناً|1
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV42030.wav|كَانَ وَاضِحًا عَلَيْكَ|2
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4926.wav|أَخِي المِقْدَادِ؟|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41337.wav|هَؤُلَاءِ النَّاسِ|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41259.wav|هَذَا أَمْرٌ لاَ يَعْنِينِي هِيَا تَعَالَ يَا مَعِي|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41557.wav|سَأُعِينُ أَبَا الْحَكَمِ عَلَى الصُّعُودِ|1
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41758.wav|Oh!|13
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41034.wav|لَقَد فَرَّ عَدَدٌ آخِرٌ مِن أَتْبَاعِ مُحَمَّدِ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4440.wav|لَكِنَّهُ قَدْ يُنْقَذُ الأَطْفالُ الصِّغارُ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41835.wav|العَمَلُ الآنَ يَا هِشَامُ|13
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4210.wav|فِي حِمَايَةِ رَسُولِ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ لَقَدْ رَأَى عُبَّةَ بْنَ أَبِي وَقَّاسٍ يَهْجُمُ عَلَى النَّبِيِّ|3
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41825.wav|وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41750.wav|وَيَشْرَحُ اللهُ قَلْبَهَا|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41192.wav|dxfcg|1
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4679.wav|إِنَّهُ لَا يَلْزَمُنِي|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4849.wav|آثَرَ عَمَلَهُ عَلَى أَيِّ شَيْءٍ آخَرَ وَهَذَا يَدْعُونِي لِاحْتِرَامِهِ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41198.wav|وَنَحْنُ أَيْضًا يَا جَدِّي أَتْقَلْنَا دُرُوسَنَا وَ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41826.wav|صَدَقَ اللَّهُ الْعَظِيمُ|3
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41861.wav|हु|30
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4808.wav|لَيْسَ هَذَا وَقْتَ الِاخْتِلَافِ يَجِبُ أَنْ نَفْعَلَ شَيْئًا لِنَنْقِذَ الْحَبَشَةَ هُنَاكَ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4220.wav|أَيُّ نَوْعٍ مِنَ التَّمْرِ تَنْصَحْنَا بِهِ؟|3
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41563.wav|وَمَنْ يَنالُ|2
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4237.wav|لا أَحَدَ يَا جَدِّي|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4719.wav|mmmm|3
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4807.wav|أَخْشَى عُقَابَ الرَّبِّ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4289.wav|إِنَّهُ لَا يَجِدُ مَا يَقُولُ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4567.wav|مُجَرَّدَ المُخَالَفَة|3
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41309.wav|وَحُسْنُ الْجَوَارِ وَالْكَفِّ عَنِ الْمَحَارِمِ وَالدِّمَاءِ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4316.wav|دُرْ مِنْ نَاحِيَةِ الْيَمِينِ لِنُحِيطَ بِهَا|1
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4869.wav|اِخفي دِي صَوْتَكِ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41730.wav|لَقَدْ فَتَنَّا فِي دِينِنَا رَغْماً عَنْهُ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV413.wav|Я водитель.|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41422.wav|إِنَّهَا لَيْسَتْ نَاقَتِي|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4998.wav|أَخْشَى يَا مَوْلاَيَ أَنْ يَسْمَعَ النَّاسُ فِي الْحَبَشَةِ بِمَا يَحْدُثُ هُنَا|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4712.wav|وَلَمْ يَعُدْ لَنَا دَوْرٌ فِي هَذِهِ الحَيَاةِ إِلاَّ مَدْحٌ ذَكَاءٌ وَعَبْقَرِيَّةٌ أَصْحَمَهْ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41703.wav|र जूक ह ी|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4478.wav|وَقَالَ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ|2
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41593.wav|LAKABAT ABIJAH|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41436.wav|ثُمَّ نَرَى فِي أَيِّ مَكَانٍ يَسْتَقِرُّ|1
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4948.wav|dxfg|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41161.wav|هَذَا الْجِلْدُ مِنْ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41786.wav|Tad akart, tad akart.|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4865.wav|إِلَى الْجَزِيرَةِ الْعَرَبِيَّةِ لِيَسْ|1
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41125.wav|وَلا تَهْتَمُّ؟|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4416.wav|dddd|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41618.wav|حَتَّى أُريحَ جَسَدِ المُتْعِبِ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41087.wav|hbh|1
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41813.wav|gfh|3
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4588.wav|अरजूक|2
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41811.wav|jki|17
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41900.wav|عَدَدْتُ لَكَ مُفَاجَأَةً عَلَى الْعِشَاءِ|1
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4997.wav|ghvg|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41068.wav|وَإِلَى أَيْنَ نَذْهَبُ؟|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4121.wav|أَمُهَاجِرَةٌ جِئْتِي؟|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41600.wav|مِنَ الْعَمَلِ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41112.wav|Là.|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41727.wav|لا يَأْسَ مِنْ رَحْمَةٍ|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4886.wav|وَأَنَا عَلَى الْعَكْسِ أَرَى تَهْرُبُهُ مِنَّا يُؤَكِّدُ شُكُوكَ فِيهِ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41343.wav|السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ|2
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41622.wav|هَا قَدِ انْتَهَيْتَ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4115.wav|وَحُبًّا فِي رَسُولِ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41788.wav|‫הסלוק, אני אמיס לסלוק.|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4744.wav|نَادَتْ عَلَيَّ وَأَعْطَتْنِي الصَّرْ|1
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4508.wav|–Vad är det som hår? –Asran!|1
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41118.wav|أَلَكَ شَهِيَةٌ لِلطَّعَامِ يَا عَمْرُ؟|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41847.wav|Oh.|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4963.wav|No.|30
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4964.wav|هَذَا صَحِيحٌ لَقَدْ نَطَقْتَ بِالْحَقِّ يَا سَيِّدِي وَأَنَا أُرِيدُ حَقِّي كَ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41963.wav|Oh.|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41418.wav|هِيَا نُسْرِعْ|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41537.wav|Hmm.|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41427.wav|مَاذَا تَفْعَلَانِ؟|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41965.wav|!|26
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4479.wav|وَهُوَ يَترُكُ أَرضَ مَكَّةَ|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41737.wav|وَلاَ نَيْأَسُ أَبَداً|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41711.wav|نَحْنُ عَرَفْنَا اللَّهُ|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV42085.wav|الَّذِي يَشْغَلُنِي|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41885.wav|Azim.|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4940.wav|fcgh|1
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4944.wav|إِنَّ لِي حَقًّا وَيَنْبَغِي أَنْ أَسْتَرِدَّهُ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41261.wav|وَمَا دَخَلُكِ أَنْتِ إِلَى أَيْنَ أَذْهَبْ؟ أَنَا حُرٌّ أَذْهَبُ حَيْثُ مَا أَشَاءُ وَقْتَ مَا أَشَاءُ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41948.wav|تَعْرِفِينَ أَمْبَهَارَ؟|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41089.wav|طَلَبَ العِلْمَ ضَرُورَةَ إِيَهْ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41611.wav|Yeah.|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41561.wav|إِلَى أَيْنَ كُنْتَ ذَاهِباً؟|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41080.wav|lei è già dì?|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41106.wav|إِنْ كَانَ أَمْرًا بِ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4383.wav|عَيْنُ الْعَقْلِ|13
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41465.wav|أَلَمْ تَسْمَعْ مَا قَالَهُ أَخِي الأَكْبَرُ؟|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4368.wav|مَا هَذَا التَّخْرِيفُ؟|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41602.wav|لِمَاذَا فَعَلْتَ ذَلِكَ؟|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV42123.wav|فَأَنَا لاَ أَحْتَمِلُ حَرَارَةَ هَذِهِ الشَّمْسِ الحَارِقَةِ|2
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4332.wav|عَنْ هَذِهِ الرِّسَالَةِ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4785.wav|تَقْصْدُ نَقْتُلُ الْمُلْكَ أَبْجَرَ وَنُوَلِّي أَخَاهُ بَدَلاً مِنْهُ؟|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41247.wav|إِذَنْ رَدَّ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV463.wav|هَلْ نَأْخُذُهَا لِلسَّيِّدِ جَوْجاً مُعَلِّمُ اللُّغَاتِ؟|1
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41910.wav|بِالْهَنَاءِ وَشِفَاءٍ؟|21
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41991.wav|يَا هِشَامُ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41210.wav|إِلَى هَدّ مَا|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4445.wav|mmmm|2
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV42008.wav|الْعَبْدُ لا يَمْلِكُ أَمْرَ نَفْسِهِ يَا أَحْمَقُ|1
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41838.wav|وَلَا قُدْرَةَ لِي عَلَى فِعْلِ شَيْءٍ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41040.wav|الحَبَشَةُ|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4382.wav|Aynullah.|13
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4636.wav|وَغَرِيبٌ عَنَّا|2
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4809.wav|سَيِّدِي أَصْحَمَهْ سَ|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4771.wav|أَمَّا أَنَا فَ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41879.wav|لا عَلَيْكَ، هِيَا|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV42055.wav|هَلْ تَسْتَطِيعُ أَنْ تُصِيبَ هَذِهِ الشَّجَرَةَ الْبَعِيدَةَ؟|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41882.wav|فِي سَبِيلِ اللَّهِ مَا لَقِيتَ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41007.wav|فَكَيْفَ أَقْبَلَ بِأَخْذِ الرِّشْوَةِ؟|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV423.wav|أَنْ تُقَلِّلَ البَهَارَ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV42125.wav|مِثْلُ حَصَى الرِّمَالِ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41319.wav|وَجَعَلَنِي مُبَارَكاً أَيْنَمَا كُنْتُ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4198.wav|غَرِيبَةٌ.|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV449.wav|سَأَسْتَأْجِرُ جَمَلاً بِهَوْدَجٍ مُدَامٍ مَعِي كُلُّ هَذَا الْمَالِ|1
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4173.wav|mmmm|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4361.wav|يَحْمِلُ الرِّسَالَةَ فِي يَدِهِ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4429.wav|قَالَ لَهُمْ عَلِيُّ بْنُ أَبِي طَالِبٍ كَرَّمَ اللَّهُ وَجْهَهُ|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4862.wav|كُنْتُ أُسَاعِدُ صَدِيقاً لِي عَلَى طَلَبِ الْعِلْمِ|2
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4966.wav|Tant'ha fu anni.|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41232.wav|هَذَا السُّؤَالُ خَارِجٌ عَنِ الدَّرْسِ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41025.wav|فَلْيَدْخُلَا|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41673.wav|لا أُرِيدُ مِنْكُمْ شَيْئاً قُلْ لِي|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV471.wav|Eee...|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41170.wav|وَلَتَجِدَنَّ أَقْرَبَهُمْ مَوَدَّةً لِّلَّذِينَ آمَنُواْ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41833.wav|يَا أَبَا الحَكَمْ|39
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4583.wav|هَلْ تَظُنُّ نَفْسَكَ فِي سُوقٍ؟ ابْتَعَدْ|3
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4607.wav|إِنَّ بِها عَشَرَةَ دَنَانِيرِ ذَهَبِيَّةً|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41381.wav|سَيِّدِي الأَمِيرُ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41412.wav|سَأَعُودُ وَآخُذُهْ|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4780.wav|إِذَا نَدْخُلَ مُبَاشَرَةً فِي الْمَوْضُوعِ|2
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41110.wav|إِنَّ بِأَرْضِكُمْ رِجَالاً مِنْ قُرَيْشٍ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4836.wav|حَتَّى أَمَرَ الرَّسُولُ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بَعْضَهُمْ بِالْإِنْ|2
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41840.wav|لا تَذْكُرُ الْمَاءَ وَالطَّعَامَ يَا أَخِي|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41037.wav|كُلُّ الْقَبَائِلِ حَوْلَنَا تَتَحَالَفُ مَعَنَا|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41891.wav|تَسْبِقُ الجَمِيعَ بِحِكْمَتِكَ وَ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4256.wav|شُكْرًا لَكُمْ|16
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41817.wav|أَتَوَقَّعُ يا أَبا الحَكَمِ|17
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4767.wav|لَا فَائِدَةَ|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4387.wav|Azima. Amr'ım.|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41630.wav|وَقَفْتَ وَقْتاً طَوِيلاً أَكْثَرَ مِمَّا يَجِبُ|3
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41614.wav|Huh?|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV420.wav|وَيطْهُو بِكُلِّ الأَسَالِيبِ المَعْرُوفَةِ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4707.wav|دَعْنِي الآنَ أَرْجُوكَ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41858.wav|مَنْ يَثِقُ بِرِجَالٍ يَتَنَكَّرُونَ لِدِينِهِمْ؟|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4381.wav|دَايَا الْخَطِيرَةِ|19
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41587.wav|وَمَا ذَنْبُنَا أَنْ|2
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41368.wav|إِهَانَةً لَهُمْ|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41356.wav|لَا|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41473.wav|فَإِنَّهَا سَرِيعَةٌ وَطِيعَةٌ، إِلْزَمَ ظَهْرَهَا، وَإِنْ رَأَيْتَ مِنَ الْقَوْمِ مَا يُرِيدُ، أَنْجُو عَلَيْهَا|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4921.wav|عَلَيْكَ الشِّرَاءُ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4782.wav|مَعَكَ حَقٌّ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4736.wav|اِنْتَظِرُ حَتَّى نُشَاهِدَ هَذِهِ الرَّقْصَةَ|2
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41446.wav|mmmm|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41921.wav|بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4856.wav|أَنَّ صَاحِبَ الشُّرْطَةِ يَحْتَاجُ إلَى تَعَلُّمِ اللُّغَاتِ الْأَجْنَبِيَّةِ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41052.wav|أَهْلاً بِكُمَا فِي أَرْضِ الْحَبَشَةِ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41374.wav|hbk|3
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4374.wav|مَنْ أَخْبَرَكَ بِهَذِهِ الْمَعْلُومَاتِ؟|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4270.wav|السَّلَامُ عَلَيْكُمْ يَا إِخْوَتِي فِي اللَّهِ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4741.wav|هَيَّا اذْهَبْ وَأَحْضِرْ لِي طَعَاماً سَاخِنَاً|2
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4620.wav|لا|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4554.wav|llll|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41721.wav|لَا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4845.wav|تُصْبِحُونَ عَلَى خَيْرٍ|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4806.wav|kkkkk|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV425.wav|دَعْنِي وَشَأْني|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41406.wav|وَيْلِي إِذَا كُنْتُ السَّبَبَ فِيهَا لَكِ أُمِّي|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV478.wav|قُلْ لَهُ يَا جَدِّي أَلَّا يَعُودَ لِإِذَاءِ الطُّيُورِ الْمِسْكِينَةِ|1
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4366.wav|لا أَسْتَطِيعُ يَنْبِهارُ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41942.wav|وَأَفْكَارِكَ النَّيِّرَةِ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV432.wav|وَقَدِ احْتَجَّت حاجَةً شَديدَةً|3
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4532.wav|شُحَاذٌ أَمَامَ بَابِ الْقَصْرِ|1
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41548.wav|مَنْ أَنْتُمْ؟|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4552.wav|كُنْتَ قَدْ وَعَدْتَ الصِّغَارَ أَنْ تَحْكِي لَهُمْ قِصَّةً جَدِيدَةً|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41809.wav|كَيْفَ يَهْرُبُ وَهْوَ فِي حِرَاسَةِ خَالِدِ بْنِ الْوَلِيدِ؟ أَعْظَمُ فُرْسَانِ قُرَيْشٍ وَأَشَدُّهُمْ قُوَّةٌ وَدَهَاءُ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4903.wav|حَضْرَةُ الْقَاضِي وَصَاحِبِ الشُّرْطَةِ يَرْغُبَانِ فِي مُقَابَلَتِكَ الآنَ؟|1
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4527.wav|الصَّغِيرَةُ تُشِيرُ لِي|17
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4163.wav|هَذِهِ أَعْتَبِرُهَا إِهَانَةً تَدْخَلَتْ فِي صَمِيمِ عَمَلِي|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4203.wav|فِي أَرْضِنَا وَ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4819.wav|hhhhh|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41001.wav|أَتْرُكُ الْمَبْلَغَ التَّافِي|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4432.wav|Ethan.|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV41086.wav|أَبِي|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4305.wav|kkkk|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4973.wav|الْإِنْجِيلِ|5
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4611.wav|أَخْبِرْنِي بِالْحَقِيقَةِ|0
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV42110.wav|أُلْقِيَهَا عَلَى صَدْرِهِ وَبَطْنِهِ|11
+C:\Users\Ons Hadrich\Desktop\PFE\Tacotron2\tts-arabic-pytorch\data\custom_data\enhanced_audio/audioV4192.wav|تَّحَرُّكْ|5

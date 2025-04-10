@@ -1,0 +1,50 @@
+
+
+# restore_model: ''
+restore_model: ./pretrained/hybride_ar.pth
+
+
+log_dir: logs/exp_fp_adv
+checkpoint_dir: checkpoints/exp_fp_adv
+
+# dataset
+train_wavs_path: data\custom_data\enhanced_audio
+train_labels: data\custom_data\ready_train.txt
+
+test_wavs_path:  data\custom_data\enhanced_audio
+test_labels: data\custom_data\ready_val.txt
+
+label_pattern: '"(?P<filename>.*)" "(?P<speaker_ID>.*)" "(?P<phonemes>.*)"'
+# label_pattern: (?P<arabic>.*)\|(?P<filestem>.*)
+
+# for fastpitch
+f0_dict_path: data\custom_data\pitch_dict.pt
+
+f0_mean: 130.05478
+f0_std: 22.86267
+
+# loss weights
+gan_loss_weight: 3.
+feat_loss_weight: 1.
+
+# batch sizes
+max_lengths: [1000, 1300, 1850, 30000] # 1 frame ≈ 11.6ms
+batch_sizes: [10, 8, 6, 4]
+
+# optimizers
+g_lr: 1.0e-4    # lr for AdamW optimizer (generator)
+g_beta1: 0.     # beta1 for AdamW optimizer (generator)
+g_beta2: 0.99   # beta2 for AdamW optimizer (generator)
+
+d_lr: 1.0e-4    # lr for AdamW optimizer (discriminator)
+d_beta1: 0.     # beta1 for AdamW optimizer (discriminator)
+d_beta2: 0.99   # beta2 for AdamW optimizer (discriminator)
+
+
+# loss weights
+gan_loss_weight: 4.
+feat_loss_weight: 1.
+
+
+n_save_states_iter: 10
+n_save_backup_iter: 1000
